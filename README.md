@@ -33,6 +33,7 @@ Continuous operation with solar backup,
 Tested for over 30 days under varied lighting conditions
 
 Real World Relevance:-
+
 This project addresses the growing real-world demand for affordable, automated, and energy-efficient security systems by combining IoT technology with renewable energy. 
 Designed for areas prone to power outages or limited resources, it offers continuous night-time surveillance using low-cost sensors and solar power. 
 The concept aligns with the global shift toward smart homes and sustainable cities, and can be further extended with IoT cloud connectivity, AI-based threat detection, and real-time mobile alerts — making it a scalable and practical solution for future security needs.
