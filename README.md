@@ -1,4 +1,5 @@
 About the Idea:-
+
 This research paper presents the design and development of an Arduino-based night security system that offers an energy-efficient
 ,autonomous surveillance solution. The system uses an LDR sensor to detect night conditions and a PIR sensor to sense motion, activating a buzzer or relay-controlled lighting only when needed. 
 Powered by a solar panel and rechargeable battery, it ensures continuous operation even during power outages.
@@ -6,6 +7,7 @@ Powered by a solar panel and rechargeable battery, it ensures continuous operati
 The project emphasizes renewable energy integration, low-power operation, and affordable scalability — making it suitable for homes, small industries,and smart security setups.
 
 Key Features:-
+
 Arduino UNO microcontroller-based control system,
 
 PIR motion sensor for intrusion detection,
@@ -19,11 +21,13 @@ Solar-powered for energy efficiency,
 Expandable for IoT integration and GSM-based remote alerts
 
 Methodology:-
+
 The system activates security functions only under low-light conditions. When motion is detected at night, the relay triggers the alarm or light system. 
 The Arduino program processes data from sensors and controls output devices efficiently.
 Future enhancements include integrating Wi-Fi (ESP8266) for remote monitoring and cloud connectivity for real-time data logging and alerts.
 
 Results:-
+
 Efficient motion detection during low-light hours,
 
 Reduced energy usage through smart lighting control,
